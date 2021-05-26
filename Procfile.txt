@@ -1,1 +1,0 @@
-web: gunicorn WebApp: app
